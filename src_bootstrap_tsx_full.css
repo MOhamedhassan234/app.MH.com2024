@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap);
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.Error_section__exy\+g {
+  background-color: #f5f7f9;
+}
+
+.Error_wrapper__iRLKH {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.Error_wrapper__iRLKH > * {
+  margin-bottom: 40px;
+}
+
+.Error_heading__hROq7 {
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: -0.69px;
+  color: #1a1a1a;
+  margin-top: 20px;
+}
+
+.Error_text__kyPPr {
+  font-size: 20px;
+  line-height: 1.43;
+  text-align: center;
+  color: #5f738c;
+  margin-top: 14px;
+}
+
+.Error_svg__xQrCv svg {
+  width: 280px;
+}
+
+@media (min-width: 768px) {
+  .Error_svg__xQrCv svg {
+    width: auto;
+  }
+}
+
+.Error_buttons-wrapper__ZNrMo {
+  display: flex;
+  gap: 20px;
+}
+
+.Error_button__AwrFa {
+  background: transparent;
+  border-radius: 4px;
+  border: 2px solid #000;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 10px 16px;
+  line-height: 1.25;
+  cursor: pointer;
+}
+
+.Error_button__AwrFa:hover {
+  background-color: #eee;
+}
+
+.Error_button__AwrFa:active {
+  scale: 0.98;
+}
+
+/*# sourceMappingURL=src_bootstrap_tsx.css.map*/
